@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AppSecAntibody
-- 👀 I’m interested in Application Security Automation, Application Security Metrics, Software Security,Information Fusion, Decision Science.
+- 👀 I’m interested in Software Security, Fuzzing, Application Security Automation, Application Security Metrics, Software Security,Information Fusion, Decision Science.
 - 💞️ I’m looking to collaborate on DevSecOps, Security Automation, Decision Science for software security.
 - 📫 TBD
 
